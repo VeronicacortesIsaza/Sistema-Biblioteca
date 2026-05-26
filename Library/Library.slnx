@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="Library.API/Library.API.csproj" />
-  <Project Path="Library.DataAccess/Library.DataAccess.csproj" />
-  <Project Path="Library.Domain/Library.Domain.csproj" />
-</Solution>
